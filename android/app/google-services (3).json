@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735741733751",
+    "project_id": "sir-visvesvaraya",
+    "storage_bucket": "sir-visvesvaraya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735741733751:android:c6965803ab1069a35fcf72",
+        "android_client_info": {
+          "package_name": "com.example.feynman1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735741733751-q5meiojvik6rjj9i27rr4lrn2084bngc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeRBSx7ZlwLJyztBJHC99VHu1SYgVzYwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735741733751-q5meiojvik6rjj9i27rr4lrn2084bngc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

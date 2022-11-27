@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "626922841861",
+    "project_id": "sir-visvesvaraya-answers",
+    "storage_bucket": "sir-visvesvaraya-answers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626922841861:android:c9bc85d9728bb1e5ff796c",
+        "android_client_info": {
+          "package_name": "com.example.feynman1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626922841861-2q1uha7fc6hfbao0uccqjv6il0ee480f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUOeQ5Zn7fE9lRRZXhNgxMI0ql0nvYxEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626922841861-2q1uha7fc6hfbao0uccqjv6il0ee480f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626922841861-cfkic0g77rhmfba609ej7k1iucejbk6d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.feynman1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
